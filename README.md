@@ -12,6 +12,6 @@
 
 ### TODO 
 - [ ] Add an extra coin to the bottom currencies in the Select Currency Screen
-- [ ] Persist the selected currency(left and right) in the Main Screen
+- [ ] Persist the selected currency(left and right) in the Main Screen after exiting app
 - [ ] Dismiss the keyboard after typing currency
 - [ ] Refactor Content View to reuse some parts of the Main Screen
